@@ -21,9 +21,9 @@ function App() {
     <HomeSlider currentPage={pageNem}/>
     <div className='right-container'>
       <Routes>
-        <Route  path='/'  element={<Home setPageName={setPageName} />}/>
-        <Route path='/about'  element={<About  setPageName={setPageName} />}/>
-        <Route path='/work'  element={<Work setPageName={setPageName} />}/>
+        <Route  path='/mohit49/'  element={<Home setPageName={setPageName} />}/>
+        <Route path='/mohit49/about'  element={<About  setPageName={setPageName} />}/>
+        <Route path='/mohit49/work'  element={<Work setPageName={setPageName} />}/>
       </Routes>
       </div>
       <Footer/>

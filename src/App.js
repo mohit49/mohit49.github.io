@@ -1,3 +1,5 @@
+import React, { useEffect, useState } from 'react';
+
 import logo from './logo.svg';
 import './App.css';
 import HomeSlider from './component/HomeSlider';
@@ -6,7 +8,7 @@ import Home from './Pages/Home';
 import About from './Pages/About';
 import {Routes, Route , useParams} from "react-router-dom"
 import Work from './Pages/Work';
-import { useState } from 'react';
+
 import Footer from './component/Footer';
 function App() {
  

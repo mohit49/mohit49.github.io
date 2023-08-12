@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "69d6097142fc4a49fbfc",
+    "revision": "3c6448106eaa1a7080dc",
     "url": "/mohit49/static/css/main.5123b3d0.chunk.css"
   },
   {
-    "revision": "69d6097142fc4a49fbfc",
-    "url": "/mohit49/static/js/main.69d60971.chunk.js"
+    "revision": "3c6448106eaa1a7080dc",
+    "url": "/mohit49/static/js/main.3c644810.chunk.js"
   },
   {
     "revision": "f881440d46e811047be5",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/mohit49/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "fca2103f9b8ff9df55e1a370c8db467f",
+    "revision": "60dd18c757b12676c65b02d947020122",
     "url": "/mohit49/index.html"
   }
 ];

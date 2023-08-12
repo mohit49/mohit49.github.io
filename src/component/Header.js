@@ -5,13 +5,13 @@ function Header() {
 		<div className="header-menu">
 			<ul>
 				<li>
-					<Link to={process.env.PUBLIC_URL + '/'}>Home</Link>
+					<Link to="/mohit49">Home</Link>
 				</li>
 				<li>
-					<Link to={process.env.PUBLIC_URL + '/about'}>About</Link>
+					<Link to="/about">About</Link>
 				</li>
 				<li>
-					<Link to={process.env.PUBLIC_URL + '/work'}>Work</Link>
+					<Link to="/work">Work</Link>
 				</li>
 			</ul>
 		</div>

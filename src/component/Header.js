@@ -5,7 +5,7 @@ function Header() {
 		<div className="header-menu">
 			<ul>
 				<li>
-					<Link to="/mohit49">Home</Link>
+					<Link to="/">Home</Link>
 				</li>
 				<li>
 					<Link to="/about">About</Link>

@@ -3182,13 +3182,7 @@ void main() {
   <span class="close-icon">x</span>
   <div class="inner-content"></div>
 </div>
-<div class="switch-bg" id="switchBg">
-  <p class="room-lights">Pull The Rope To switch Off Room Lights</p>
-  <input type="checkbox" id="switchInp">
-  <label for="switchInp" class="pull-string">
-    <canvas id="stringCanvas" width="100" height="350"></canvas>
-  </label>
-</div>
+
 <div class="experience">
   <div class="header">
     <ul>

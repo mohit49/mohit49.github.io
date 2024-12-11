@@ -1,0 +1,8 @@
+﻿## RECSRecommendations Upload File,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,
+## RECentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.sku,entity.eciReference,entity.listPrice,entity.discount,entity.brand,entity.availability,entity.parentCategoryId,entity.parentCategoryName
+num,Juguete de construcciÃ³n R2-D2 Lego Star Wars,"Juguetes,Juguetes : Juegos de construcciÃ³n",Figura de juguete LEGOÂ® Star Warsâ„¢ de R2-D2 para construir: Crea una divertida pieza de exposiciÃ³n con esta detallada figura LEGO construible de uno de los personajes mÃ¡s entraÃ±ables del universo Star Wars.,https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/202409/17/00197630171169____23__440x440.jpg,89.99,https://www.elcorteingles.es/juguetes/A50762177-juguete-de-construccion-r2-d2-lego-star-wars/,1,A50762177,1.10E+12,99.99,10%,LEGO,In stock,999.5414001,Juegos de construcciÃ³n
